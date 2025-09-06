@@ -19,7 +19,7 @@ Add your screenshots to `assets/images/` and update the links below:
 
 | Home Screen | Settings Screen |
 |-------------|----------------|
-| ![Home](assets/images/HomePage.png) | ![Settings](assets/images/settingsPage.png) |
+| ![Home](assets/images/HomePage.jpg) | ![Settings](assets/images/settingsPage.jpg) |
 
 ## Getting Started
 
