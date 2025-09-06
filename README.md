@@ -1,25 +1,29 @@
-# Todo-App-RN
+<h1 align='center'> ✅ Todo-App-RN </h1>
 
-A modern, full-featured Todo application built with React Native, Expo, and Convex backend. This app demonstrates best practices in UI/UX, state management, and cloud data synchronization.
+A **modern, full-featured Todo application** built with **React Native, Expo, and Convex backend**.This app demonstrates **best practices in UI/UX, state management, and real-time cloud synchronization**.
 
-## Features
+---
 
-- Add, edit, and delete todos
-- Mark todos as completed
-- Real-time updates with Convex backend
-- Beautiful gradients and theming
-- Progress statistics
-- Preferences and settings
-- Danger zone for destructive actions
-- Responsive design for mobile devices
+## ✨ Features
 
-## Screenshots
+- ✍️ Add, edit, and delete todos  
+- ✔️ Mark todos as completed  
+- 🔄 Real-time updates with Convex backend  
+- 🎨 Beautiful gradients and theming  
+- 📊 Progress statistics dashboard  
+- ⚙️ Preferences and settings page  
+- 🚨 Danger zone for destructive actions  
+- 📱 Responsive design for mobile devices  
 
-Add your screenshots to `assets/images/` and update the links below:
+---
+
+## 📸 Screenshots
 
 | Home Screen | Settings Screen |
 |-------------|----------------|
 | ![Home](assets/images/HomePage.jpg) | ![Settings](assets/images/settingsPage.jpg) |
+
+---
 
 ## Getting Started
 
@@ -32,7 +36,7 @@ Add your screenshots to `assets/images/` and update the links below:
 
 ```bash
 # Clone the repository
-$ git clone <your-repo-url>
+$ git clone https://github.com/ExploreInsight/Todo-App-RN.git
 $ cd Todo-App-RN
 
 # Install dependencies
@@ -85,10 +89,10 @@ app/
 - Modify styles in `assets/styles/`
 - Add new features in `components/`
 
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
 ## License
 
 This project is licensed under the MIT License.
+
+## Author
+Chirag
+
